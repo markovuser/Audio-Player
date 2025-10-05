@@ -21,7 +21,7 @@ Tag editor. Support for the main tag formats: ID3v1, ID3v2, APE, Vorbis, WMA.<br
 </div>
 
 <div align="center">
-<table>
+<table border="0">
 <tr>
   <td>
     
