@@ -22,9 +22,9 @@ Tag editor. Support for the main tag formats: ID3v1, ID3v2, APE, Vorbis, WMA.<br
 
 <div align="center">
 
-[![Download](https://img.shields.io/github/v/release/markovuser/Audio-Player?style=flat-square&logo=github)](https://github.com/markovuser/Audio-Player/releases/latest)
+[![Download](https://img.shields.io/github/v/release/markovuser/Audio-Player?style=for-the-badge=github)](https://github.com/markovuser/Audio-Player/releases/latest)
 
-[![Downloads](https://img.shields.io/github/downloads/markovuser/Audio-Player/total?style=flat-square&logo=download)](https://github.com/markovuser/Audio-Player/releases)
+[![Downloads](https://img.shields.io/github/downloads/markovuser/Audio-Player/total?style=for-the-badge=download)](https://github.com/markovuser/Audio-Player/releases)
 </div>
 
 <div align="center">
