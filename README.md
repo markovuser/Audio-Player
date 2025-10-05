@@ -1,8 +1,6 @@
 <div align="center">
 # Audio Player
 </div>
-<div align=center><b>Audio Player - audio player on the BASS engine for Windows 10, 11</b><br></div>
-
 <div align=center>
 <b>Audio Player - audio player on the BASS engine for Windows 10, 11</b><br></br>
 Support for a large number of music formats</br>
