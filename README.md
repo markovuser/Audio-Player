@@ -10,4 +10,4 @@ Search for files by playlists</br>
 Tag editor. Support for the main tag formats: ID3v1, ID3v2, APE, Vorbis, WMA.<br><br>
   <img src=https://github.com/markovuser/Audio-Player/releases/download/latest/audioplayer.jpg>
    <img src=https://github.com/markovuser/Audio-Player/releases/download/latest/option.jpg><br><br>
-  <a href="https://github.com/markovuser/Audio-Player/releases/download/latest/Audio.Player.setup.exe" target="_blank" title="FileList"><b><span style="font-display:auto;font-size: 40px;">Download</span></b></a></div>
+  <a href="[https://github.com/markovuser/Audio-Player/releases/download/latest/Audio.Player.setup.exe](https://github.com/markovuser/Audio-Player/releases/download/5.9.1004.2025/Audio.Player.setup.exe)" target="_blank" title="FileList"><b><span style="font-display:auto;font-size: 40px;">Download</span></b></a></div>
