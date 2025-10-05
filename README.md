@@ -30,8 +30,7 @@ Tag editor. Support for the main tag formats: ID3v1, ID3v2, APE, Vorbis, WMA.<br
 
 ### 📥 Quick links
 [Release page](https://github.com/markovuser/Audio-Player/releases/latest) • 
-[All releases](https://github.com/markovuser/Audio-Player/releases)• 
-[Download](https://github.com/markovuser/Audio-Player/releases/latest/download/Audio.Player.setup.exe)
+[All releases](https://github.com/markovuser/Audio-Player/releases)
 
 </div>
 <div align="center">
