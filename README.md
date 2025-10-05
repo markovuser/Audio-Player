@@ -16,13 +16,13 @@ Tag editor. Support for the main tag formats: ID3v1, ID3v2, APE, Vorbis, WMA.<br
 </div>
 
 <div align="center">
-  <img src=https://raw.githubusercontent.com/markovuser/Audio-Player/main/assets/audioplayer.jpg>
-  <img src=https://raw.githubusercontent.com/markovuser/Audio-Player/main/assets/option.jpg><br><br>
+  <img src=https://raw.githubusercontent.com/markovuser/Audio-Player/main/assets/audioplayer.jpg width="250">
+  <img src=https://raw.githubusercontent.com/markovuser/Audio-Player/main/assets/option.jpg width="250"><br><br>
 </div>
 
 <div align="center">
 
-[![Download](https://img.shields.io/github/v/release/markovuser/repository?style=for-the-badge&logo=github)](https://github.com/markovuser/Audio-Player/releases/latest)
+[![Download](https://img.shields.io/github/v/release/markovuser/Audio-Player?style=for-the-badge&logo=github)](https://github.com/markovuser/Audio-Player/releases/latest)
 
 </div>
 
