@@ -44,6 +44,6 @@ Tag editor. Support for the main tag formats: ID3v1, ID3v2, APE, Vorbis, WMA.<br
 </div>
 <div align="center">
   
-[<img src="https://raw.githubusercontent.com/markovuser/Clock-on-Desktop/main/assets/download.png" width="250" alt="Download">](https://github.com/markovuser/Clock-on-Desktop/releases/latest/download/Clock.on.Desktop.setup.exe)
+[<img src="https://raw.githubusercontent.com/markovuser/Clock-on-Desktop/main/assets/download.png" width="250" alt="Download">](https://github.com/markovuser/Audio-Player/releases/latest/download/Audio.Player.setup.exe)
 
 </div>
