@@ -1,5 +1,5 @@
 <div align="center">
-<h1>## Audio Player</h1>
+<h1># Audio Player</h1>
 </div>
 <div align=center>
   [EN]<br>
