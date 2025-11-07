@@ -1,5 +1,5 @@
 <div align="center">
-<h1># Audio Player</h1>
+<h1>## Audio Player</h1>
 </div>
 <div align=center>
   [EN]<br>
@@ -42,5 +42,12 @@ Tag editor. Support for the main tag formats: ID3v1, ID3v2, APE, Vorbis, WMA.<br
 [<img src="https://raw.githubusercontent.com/markovuser/Audio-Player/main/assets/download.png" width="250" alt="Download" title="Installer">](https://github.com/markovuser/Audio-Player/releases/latest/download/Audio-Player-setup.exe)<br>
 [<img src="https://raw.githubusercontent.com/markovuser/Audio-Player/main/assets/downloadport.png" width="250" alt="Download" title="Portable">](https://github.com/markovuser/Audio-Player/releases/latest/download/Audio.Player.zip)
 
+
+</div>
+<div align="center">
+  
+## 📫 Contacts/Контакты
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:markov.user@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/markovuser)
 
 </div>
