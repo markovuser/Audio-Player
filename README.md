@@ -1,7 +1,6 @@
 <div align="center">
-# Audio Player
+<h1># Audio Player</h1>
 </div>
-<hr>
 <div align=center>
   [EN]<br>
 <b>Audio Player - audio player on the BASS engine for Windows 10, 11</b><br></br>
