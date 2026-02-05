@@ -1,2 +1,2 @@
-1 FONT "..\\Assets\\Font\\DigitalDisplayRegular-ODEO.ttf"
-101 RCDATA "..\\Assets\\PNG Small\\200х200.png"
+101 RCDATA "assets\\200х200.png"
+1 FONT "assets\\DigitalDisplayRegular-ODEO.ttf"

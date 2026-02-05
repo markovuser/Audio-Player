@@ -104,12 +104,12 @@
         <AppDPIAwarenessMode>PerMonitorV2</AppDPIAwarenessMode>
         <VerInfo_IncludeVerInfo>true</VerInfo_IncludeVerInfo>
         <VerInfo_Locale>1033</VerInfo_Locale>
-        <VerInfo_Keys>CompanyName=Nikolay Markov;FileDescription=Audio Player;FileVersion=6.7.26.204;InternalName=Audio Player;LegalCopyright=Copyright © 2010-2026 All Rights Reserved.;LegalTrademarks=Nikolay Markov;OriginalFilename=Audio Player;ProductName=Audio Player;ProductVersion=6.7.26.204;Comments=Audio Player;ProgramID=Audio Player</VerInfo_Keys>
-        <DCC_ExeOutput>.\Application\Audio Player</DCC_ExeOutput>
+        <VerInfo_Keys>CompanyName=Nikolay Markov;FileDescription=Audio Player;FileVersion=6.7.26.205;InternalName=Audio Player;LegalCopyright=Copyright © 2010-2026 All Rights Reserved.;LegalTrademarks=Nikolay Markov;OriginalFilename=Audio Player;ProductName=Audio Player;ProductVersion=6.7.26.205;Comments=Audio Player;ProgramID=Audio Player</VerInfo_Keys>
+        <DCC_ExeOutput>..\..\Application\Audio Player</DCC_ExeOutput>
         <Icon_MainIcon>AudioPlayer_Icon2.ico</Icon_MainIcon>
         <VerInfo_MajorVer>6</VerInfo_MajorVer>
         <VerInfo_Release>26</VerInfo_Release>
-        <VerInfo_Build>204</VerInfo_Build>
+        <VerInfo_Build>205</VerInfo_Build>
         <VerInfo_MinorVer>7</VerInfo_MinorVer>
     </PropertyGroup>
     <PropertyGroup Condition="'$(Cfg_1_Win64)'!=''">
@@ -214,13 +214,13 @@
         <DCCReference Include="Units\Bass\basswebm.pas"/>
         <DCCReference Include="Units\FileInfoUtils\FileInfoUtils.pas"/>
         <None Include="ModelSupport_AudioPlayer\default.txvpck"/>
-        <RcItem Include="..\Assets\Font\DigitalDisplayRegular-ODEO.ttf">
-            <ResourceType>FONT</ResourceType>
-            <ResourceId>1</ResourceId>
-        </RcItem>
-        <RcItem Include="..\Assets\PNG Small\200х200.png">
+        <RcItem Include="assets\200х200.png">
             <ResourceType>RCDATA</ResourceType>
             <ResourceId>101</ResourceId>
+        </RcItem>
+        <RcItem Include="assets\DigitalDisplayRegular-ODEO.ttf">
+            <ResourceType>FONT</ResourceType>
+            <ResourceId>1</ResourceId>
         </RcItem>
         <BuildConfiguration Include="Base">
             <Key>Base</Key>
@@ -251,25 +251,25 @@
             <ModelSupport>False</ModelSupport>
             <Deployment Version="5">
                 <DeployFile LocalName="!Audio Player\AudioPlayer.exe" Configuration="Debug" Class="ProjectOutput"/>
-                <DeployFile LocalName="..\Assets\Font\DigitalDisplayRegular-ODEO.ttf" Configuration="Release" Class="ProjectFile">
-                    <Platform Name="Win32">
-                        <RemoteDir>.\</RemoteDir>
-                        <Overwrite>true</Overwrite>
-                    </Platform>
-                </DeployFile>
-                <DeployFile LocalName="..\Assets\PNG Small\200х200.png" Configuration="Release" Class="ProjectFile">
-                    <Platform Name="Win32">
-                        <RemoteDir>.\</RemoteDir>
-                        <Overwrite>true</Overwrite>
-                    </Platform>
-                </DeployFile>
-                <DeployFile LocalName="Application\Audio Player\AudioPlayer.exe" Configuration="Release" Class="ProjectOutput">
+                <DeployFile LocalName="..\..\Application\Audio Player\AudioPlayer.exe" Configuration="Release" Class="ProjectOutput">
                     <Platform Name="Win32">
                         <RemoteName>AudioPlayer.exe</RemoteName>
                         <Overwrite>true</Overwrite>
                     </Platform>
                 </DeployFile>
                 <DeployFile LocalName="ModelSupport_AudioPlayer\default.txvpck" Configuration="Debug" Class="ProjectFile"/>
+                <DeployFile LocalName="assets\200х200.png" Configuration="Release" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
+                <DeployFile LocalName="assets\DigitalDisplayRegular-ODEO.ttf" Configuration="Release" Class="ProjectFile">
+                    <Platform Name="Win32">
+                        <RemoteDir>.\</RemoteDir>
+                        <Overwrite>true</Overwrite>
+                    </Platform>
+                </DeployFile>
                 <DeployClass Name="AdditionalDebugSymbols">
                     <Platform Name="iOSSimulator">
                         <Operation>1</Operation>
